@@ -1,4 +1,4 @@
-# FSD-1 Exp-1: Admin Dashboard with CSS Grid and Theme Switching
+# Exp-1: Admin Dashboard with CSS Grid and Theme Switching
 
 ## Title
 Develop an admin dashboard with CSS Grid layout and dynamic theme switching.
@@ -21,5 +21,5 @@ This experiment implements a static admin dashboard using HTML, CSS Grid, and va
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/FSD-1-Exp-1-Admin-Dashboard.git
-   cd FSD-1-Exp-1-Admin-Dashboard
+   git clone https://github.com/Harsh9955a/admin-dashboard.git
+   cd admin-dashboard
